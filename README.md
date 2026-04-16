@@ -1,7 +1,7 @@
 # swennix
 
 **Backend & ML engineer. ITMO student.**  
-Building systems that work — from APIs to models.
+Backend all day, ML all night.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@puturdaway-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/puturdaway)
 [![ITMO](https://img.shields.io/badge/ITMO-University-0033A0?style=flat&logo=graduation-cap&logoColor=white)]()
