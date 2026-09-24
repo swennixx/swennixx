@@ -8,12 +8,25 @@ Backend all day, ML all night.
 
 ---
 
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [crm-workshop](https://github.com/swennixx/crm-workshop) | CRM for small business: clients, order kanban, analytics, roles | Django, DRF, React, TypeScript, Docker |
+| [kill-the-video](https://github.com/swennixx/kill-the-video) | Android app: YouTube audio with the screen off, offline downloads, subscriptions without an account | Kotlin, Media3, NewPipeExtractor |
+| [micro-ecommerce-platform](https://github.com/swennixx/micro-ecommerce-platform) | Microservice e-commerce platform with GraphQL gateway and monitoring | FastAPI, gRPC, GraphQL, PostgreSQL, Redis, Prometheus, Grafana |
+| [pytorch-image-classification](https://github.com/swennixx/pytorch-image-classification) | CIFAR-10 image classification with a CNN | PyTorch |
+
+---
+
 ## Stack
 
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -21,11 +34,18 @@ Backend all day, ML all night.
 
 **Backend**
 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 **Databases**
 
