@@ -96,11 +96,3 @@ Backend all day, ML all night.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=swennixx&hide_border=true&theme=dark" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swennixx&layout=compact&hide_border=true&theme=dark&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swennixx&theme=github-compact&hide_border=true" />
-</p>
