@@ -12,10 +12,10 @@ Backend all day, ML all night.
 
 | Project | Description | Stack |
 |---|---|---|
+| [protocolist](https://github.com/swennixx/protocolist) | Local meeting transcription: speaker diarization, summaries, decisions and tasks via a local LLM, semantic search and Q&A over the archive. Benchmarked on AMI and Golos | Whisper, pyannote, Ollama, FastAPI, pgvector, React |
 | [crm-workshop](https://github.com/swennixx/crm-workshop) | CRM for small business: clients, order kanban, analytics, roles | Django, DRF, React, TypeScript, Docker |
 | [kill-the-video](https://github.com/swennixx/kill-the-video) | Android app: YouTube audio with the screen off, offline downloads, subscriptions without an account | Kotlin, Media3, NewPipeExtractor |
 | [micro-ecommerce-platform](https://github.com/swennixx/micro-ecommerce-platform) | Microservice e-commerce platform with GraphQL gateway and monitoring | FastAPI, gRPC, GraphQL, PostgreSQL, Redis, Prometheus, Grafana |
-| [pytorch-image-classification](https://github.com/swennixx/pytorch-image-classification) | CIFAR-10 image classification with a CNN | PyTorch |
 
 ---
 
